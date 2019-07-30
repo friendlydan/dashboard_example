@@ -1,3 +1,4 @@
 tenets:
 - import: codelingo/cacophony/caught-generic-exceptions
 - import: codelingo/cacophony/debug-prints
+- import: codelingo/effective-go/defer-close-file
